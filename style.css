@@ -9,8 +9,11 @@
   }
 
   body{
+
     background-image: url(campin\ 1.png);
-    background-size: 50% 200%;
+    background-size: 33% 500%;
     background-repeat: no-repeat;
     /* height: 180vw; */
+    /* display: grid; */
+    align-content: center;
   }
