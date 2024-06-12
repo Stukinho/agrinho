@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,200&display=swap');
 
 .kanit-extralight {
+    color: white;
     font-family: "Kanit", sans-serif;
     font-weight: 200;
     font-style: italic;
