@@ -23,12 +23,15 @@
 .bolinha{
   position: absolute;
     left: 90px;
+    top: 50px;
 }
 .bolinha1{
   position: absolute;
     left: 120px;
+    top: 50px;
 }
 .bolinha2{
   position: absolute;
     left: 140px;
+    top: 50px;
 }
