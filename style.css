@@ -16,3 +16,7 @@
     /* height: 180vw; */
     align-content: center;
   }
+style{
+  position: absolute;
+    left: 120px;
+}
