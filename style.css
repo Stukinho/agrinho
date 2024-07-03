@@ -11,9 +11,8 @@
   body{
 
     background-image: url(campin\ 1.png);
-    background-size: 33% 750%;
+    background-size: 100% 750%;
     background-repeat: no-repeat;
     /* height: 180vw; */
-    display: grid 33% 33% 33%;
     align-content: center;
   }
