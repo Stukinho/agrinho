@@ -14,8 +14,18 @@
     font-style: italic;
     text-align: center;
   position: absolute;
-  left: 183px;
-  top: 750px;
+  left: 86px;
+  top: 410px;
+  }
+  .kanit-extralight3{
+    color: white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+  position: absolute;
+  left: 86px;
+  top: 460px;
   }
   body{
 
